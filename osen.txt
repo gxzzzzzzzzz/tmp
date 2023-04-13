@@ -1,0 +1,338 @@
+Abort
+Aborted
+Alert Buzzer:
+Align
+Count
+Delay
+Exp.
+Power
+Span
+Auxiliary Features
+Zero
+αßΓπΣσµτΦΘΩδ∞
+Failed to get Dec backlash
+Failed to get RA backlash
+Failed to set Dec backlash
+Failed to set RA backlash
+Invalid Dec backlash
+Invalid RA backlash
+Backlash set
+Accept
+Auxiliary Features
+Bright Stars
+Backlash Dec: (0 to 3600)
+Backlash RA: (0 to 3600)
+Brighter
+Enter Coordinates
+Set Date/Time
+Default Speed
+De-rotate Off
+De-rotate On
+Dimmer
+Faster
+Fastest
+Guide/Focus
+Herschel
+At Home (Reset)
+Return Home
+Initialize/Park
+Messier
+NGC/IC
+No
+Now
+Off
+On
+Park
+PEC
+Clear
+Play
+Record
+Save PEC Data
+Stop
+Refine PA
+Set-Park
+Slower
+Slowest
+Solar System
+Start
+Start Align
+Stop
+Tracking
+Un-Park
+Upload
+User Catalogs
+Yes
+Bluetooth Secure
+Error Correction
+Permission granted, press "use current location" again.
+For Bluetooth pair the device first then select Address above. For WiFi enter IP Address and Port below (for example 192.168.0.1:9999)
+Object Coordinates:
+Home Focuser 1
+Reset Focuser 1
+Home Focuser 2
+Reset Focuser 2
+Returning focuser to home
+Return focuser to the home position (half-travel?)
+Setting focuser home
+Set current focuser position as home (half-travel?)
+East
+Select Epoch:
+No errors
+Motor/drvr fault
+Goto sync failed
+Unknown error
+Above ovrhead lmt
+Weath sen ninit
+Time or Loc nupdated
+Init NV/EEPROM bad
+Below horizon lmt
+Limit sense
+Dec limit exceeded
+Azm limit exceeded
+Under pole limit
+Meridian Limit W
+Sync safety limit
+Park failed
+Communication Error
+Goto started
+Goto Failed: Below horizon limit
+Goto Failed: Above overhead limit
+Goto Failed: In standby
+Goto Failed: In park
+Prior Goto Cancelled
+Goto Failed: Outside limits
+Goto Failed: Hardware fault
+Goto Failed: Already in motion
+Goto Failed: Unknown error
+No Connection
+Unknown Error
+Automatic Meridian Flip:
+Meridian Flip Pause:
+Focuser control:
+GOTO
+. . . .
+Guide ¼x
+Guide ½x
+Guide 1x
+Guide 2x
+Guide 4x
+Guide 8x
+Guide 20x
+Guide 48x
+Guide ½Mx
+Guide Max
+Guide ?x
+Home
+Horizon Limit: (+/-30)
+Last Align
+Current Max. Rate:
+8x - Center
+48x - Fast
+20x - Find
+Lock
+1x - Slow
+Spiral Search
+Tap a guide button to stop
+Swap East/West
+Swap North/South
+½ Max - VFast
+½x - VSlow
+Backlash
+BT Sec
+Checksum IP
+Connect
+Keep Scr
+Limits
+Lock Rot
+Site
+Goto Spd
+Tracking
+Backlash
+Connection
+Keep Screen On
+Limits
+Lock Rotation
+Observing Sites
+Goto Speed
+Tracking
+Hide UNK
+Hide Unknown Catalogs
+Meridian Limit E: (+/-180)
+Jan
+Oct
+Nov
+Dec
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Mount Type:
+(on next reboot)
+Align failed
+Accept alignment point?
+Align success
+Connect failed
+Command failed
+Latitude download failed
+Longitude download failed
+Name download failed
+Failed to get current site
+UTC Offset download failed
+Invalid UTC Offset
+Latitude upload failed
+Longitude upload failed
+Name upload failed
+UTC Offset upload failed
+Get location failed, permission not granted.
+Get location failed, are location services on?
+Invalid Latitude, +/-90°
+Invalid Longitude, +/-180°
+Invalid UTC, -14 to +12 hrs & min. :00, :30, or :45
+Select Bluetooth or IP Address using option menu
+Select an active IP Address using option menu
+Press and hold to Align
+Press and hold to Sync
+Select
+Star
+Success
+Using Site
+Sync/Align
+Sync Here?
+Uploading…
+OnStep Mount Type will be changed, a reboot is required for this to take effect. Are you sure?
+Meridian Limit W: (+/-180)
+NE
+North
+Select # of stars:
+NW
+Overhead Limit: (60 to 90)
+PEC Idle
+Reset
+Reticule:
+Rev
+Rev. EW
+Rev. NS
+Rotator control:
+SE
+South
+SW
+Sync
+Selection:
+Requires OnStep v4.7 or later
+2.57
+West
+Navigate home
+Navigate up
+More options
+Done
+See all
+Choose an app
+OFF
+ON
+Alt+
+Ctrl+
+delete
+enter
+Function+
+Meta+
+Shift+
+space
+Sym+
+Menu+
+Search…
+Clear query
+Search query
+Search
+Submit query
+Voice search
+Share with
+Share with %s
+Collapse
+OnStep
+com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior
+com.google.android.material.bottomsheet.BottomSheetBehavior
+Characters entered %1$d of %2$d
+Character limit exceeded %1$d of %2$d
+%1$d/%2$d
+Chip text
+Clear text
+Enable
+%1$s won't work unless you enable Google Play services.
+Enable Google Play services
+Install
+%1$s won't run without Google Play services, which are missing from your device.
+Get Google Play services
+Google Play services availability
+Google Play services error
+%1$s is having trouble with Google Play services. Please try again.
+%1$s won't run without Google Play services, which are not supported by your device.
+Update
+%1$s won't run unless you update Google Play services.
+Update Google Play services
+%1$s won't run without Google Play services, which are currently updating.
+New version of Google Play services needed. It will update itself shortly.
+Open on phone
+Sign in
+Sign in with Google
+Error
+Show dropdown menu
+com.google.android.material.transformation.FabTransformationScrimBehavior
+com.google.android.material.transformation.FabTransformationSheetBehavior
+com.google.android.material.behavior.HideBottomViewOnScrollBehavior
+Dialog Icon
+Tab
+Range end,
+Range start,
+Goto Object
+Goto
+Guide
+Settings
+User Catalogs
+New notification
+Remove %1$s
+More than %1$d new notifications
+%1$d%2$s
+Change to next month
+Change to previous month
+Current selection: %1$s
+@ref/1040000
+@ref/104000a
+%1$s
+Select a Date
+Selected date
+Column of days: %1$s
+Invalid format.
+Example: %1$s
+Use: %1$s
+Invalid range.
+Navigate to year %1$s
+Out of range: %1$s
+Start date – %1$s
+%1$s – End date
+%1$s – %2$s
+Select a Date Range
+Start date – End date
+Save
+Date
+End date
+Start date
+d
+m
+y
+Switch to calendar input mode
+Tap to switch to selecting a day
+Switch to text input mode
+Tap to switch to selecting a year
+Show password
+M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z
+M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z
+M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z
+M3.27,4.27 L19.74,20.74
+Search
+999+
+AuxActivity
+OnStep - User Catalogs
